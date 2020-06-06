@@ -1,1 +1,0 @@
-The projects requires that you have SFML 2.5.1 installed and configured in Visual Studio
